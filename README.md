@@ -43,7 +43,7 @@ Jefe final: Es el jefe del mapa, solo hay uno en el mapa, tiene una cantidad inm
 -Como desplegar el juego-
 </h2>
 <p>
-El juego esta desarrolado con el motor Unreal version 4.27.1, simplmente importando el proyecto
+El juego esta desarrollado con el motor Unreal version 4.27.1, simplmente importando el proyecto
 en el editor de Unreal y podemos inciarlo para jugar.
 </p>
 <img src="Muestra.png">
